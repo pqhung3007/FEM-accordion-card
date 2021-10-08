@@ -4,7 +4,7 @@ Hi, this is my fourth challenge from Frontend Mentor. It's not that complicated 
 
 ### Links
 
-- Live Site URL: [https://pqhung3007.github.io/accordion-card/](Accordion card)
+- Live Site URL: [https://pqhung3007.github.io/accordion-card/] (Accordion card)
 
 ### Built with
 
